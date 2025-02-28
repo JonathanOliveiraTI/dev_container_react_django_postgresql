@@ -21,6 +21,8 @@
 				"rangav.vscode-thunder-client",
 				"ms-azuretools.vscode-docker",
 				"github.copilot",
+				"github.remotehub",
+				"git.path",
 				"anbuselvanrocky.bootstrap5-vscode",
 				"ms-python.python"
 			]

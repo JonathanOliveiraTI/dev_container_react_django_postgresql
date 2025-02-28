@@ -4,7 +4,7 @@ RUN useradd -ms /bin/bash python
 
 RUN pip install pipenv
 
-RUN apt-get update && apt-get install -y postgresql-client     
+RUN apt-get update && apt-get install -y postgresql-client git
 
 WORKDIR /rotarh
 
