@@ -7,6 +7,16 @@
 
 Para instruções detalhadas sobre como configurar e rodar o ambiente, consulte a seção [Como Utilizar o Ambiente](#como-utilizar-o-ambiente-detalhado) no final deste documento.
 
+## 📌 Pré-requisitos  
+Para rodar este ambiente em um **DevContainer** no Windows, é necessário ter instalado:  
+
+- **Windows Subsystem for Linux (WSL 2)** – Para executar um ambiente Linux no Windows.  
+- **Docker e Docker Compose** – Para gerenciar e rodar os containers.  
+- **Visual Studio Code (VS Code)** – Editor de código recomendado.  
+- **Extensão Remote - Containers do VS Code** – Para suporte ao DevContainer.  
+
+Caso esteja usando **Linux ou macOS**, basta ter o Docker, Docker Compose e o VS Code com a extensão **Remote - Containers** instalados.  
+
 ---
 
 ## 🏗️ Tecnologias Utilizadas
