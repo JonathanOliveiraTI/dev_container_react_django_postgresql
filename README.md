@@ -3,9 +3,9 @@
 🔹 **Stack:** Python (Django) | Node.js (React) | PostgreSQL
 🔹 **DevContainer:** Ambiente pronto para uso no VS Code
 
-## Como Utilizar o Ambiente
+## 🔧 Como Utilizar o Ambiente
 
-Para instruções detalhadas sobre como configurar e rodar o ambiente, consulte a seção [Como Utilizar o Ambiente](#[como-utilizar-o-ambiente-detalhado](https://github.com/JonathanOliveiraTI/dev_container_react_django_postgresql?tab=readme-ov-file#-como-utilizar-o-ambiente-detalhado)) no final deste documento.
+Para instruções detalhadas sobre como configurar e rodar o ambiente, consulte a seção [Como Utilizar o Ambiente](#como-utilizar-o-ambiente-detalhado) no final deste documento.
 
 ---
 
