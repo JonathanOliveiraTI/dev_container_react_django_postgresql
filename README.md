@@ -64,7 +64,7 @@ Para instruções detalhadas sobre como configurar e rodar o ambiente, consulte 
 
 ---
 
-## 📌 Como Utilizar o Ambiente (Detalhado)
+## Como Utilizar o Ambiente (Detalhado)
 
 ### Comandos Backend - VS Code
 
