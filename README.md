@@ -1,18 +1,18 @@
 # dev_container_react_django_postgresql
 Ambiente de desenvolvimento em container com Python (Django), Node (React) e PostgreSQL
 
-Frontend:
+Frontend
 - 
 - React
 - Axios
 - Bootstrap
 
-Backend:
+Backend
 - 
 - Django
 - Django REST Framework
 
-Banco de Dados: 
+Banco de Dados
 - 
 - PostgreSQL
 
