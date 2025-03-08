@@ -1,4 +1,4 @@
-# dev_container_django_python_postgres
+# dev_container_react_django_postgresql
 Ambiente de desenvolvimento em container com Python (Django), Node (React) e PostgreSQL
 
 Frontend:
