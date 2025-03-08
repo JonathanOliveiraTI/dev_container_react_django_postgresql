@@ -12,7 +12,7 @@ Backend:
 - Django
 - Django REST Framework
 
-BD: 
+Banco de Dados: 
 - 
 - PostgreSQL
 
