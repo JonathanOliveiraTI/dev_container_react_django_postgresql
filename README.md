@@ -41,7 +41,7 @@ Basta abrir o repositório no VS Code e rodar `devcontainer open`.
 👉 **Isolamento Completo**\
 Todo o ambiente roda em containers, sem impactar seu sistema operacional.
 
-👉 **Reprodutibilidade Garantida**\
+👉 **Uniformidade Garantida**\
 Todos os desenvolvedores terão o mesmo ambiente, evitando o clássico "funciona na minha máquina".
 
 👉 **Stack Integrada**\
