@@ -3,9 +3,7 @@
 🔹 Stack: Python (Django) | Node.js (React + Vite) | PostgreSQL\
 🔹 DevContainer: Ambiente pronto para uso no VS Code
 
-## 🔧 Como Utilizar o Ambiente
-
-Para instruções detalhadas sobre como configurar e rodar o ambiente, consulte a seção [Como Utilizar o Ambiente](#🔧-como-utilizar-o-ambiente-detalhado) no final deste documento.
+Para instruções sobre como configurar e rodar o ambiente, consulte a seção [Como Utilizar o Ambiente](#como-utilizar-o-ambiente) no final deste documento.
 
 ## 📌 Pré-requisitos
 
@@ -63,7 +61,7 @@ Seu ambiente de desenvolvimento fica isolado do sistema, minimizando riscos.
 
 🚀 **Pronto para começar?** Clone o repositório e aproveite um setup rápido e eficiente!
 
-## 🔧 Como Utilizar o Ambiente (Detalhado)
+## Como Utilizar o Ambiente
 
 ### 📌 Comandos Backend - VS Code
 
