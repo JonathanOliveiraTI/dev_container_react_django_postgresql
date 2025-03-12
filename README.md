@@ -5,7 +5,7 @@
 
 ## 🔧 Como Utilizar o Ambiente
 
-Para instruções detalhadas sobre como configurar e rodar o ambiente, consulte a seção **Como Utilizar o Ambiente** no final deste documento.
+Para instruções detalhadas sobre como configurar e rodar o ambiente, consulte a seção [Como Utilizar o Ambiente](#🔧-como-utilizar-o-ambiente-detalhado) no final deste documento.
 
 ## 📌 Pré-requisitos
 
@@ -65,7 +65,7 @@ Seu ambiente de desenvolvimento fica isolado do sistema, minimizando riscos.
 
 ## 🔧 Como Utilizar o Ambiente (Detalhado)
 
-### 🛏️ Comandos Backend - VS Code
+### 📌 Comandos Backend - VS Code
 
 1. **Ativando o ambiente virtual (VENV) para Python**
 
@@ -107,7 +107,7 @@ pg_dump -U postgres -h db -p 5432 -F c -b -v -f dump_bd.dump postgres
 pg_restore --clean -U postgres -h db -p 5432 -d postgres -v dump_bd.dump
 ```
 
-### 🎨 Comandos Frontend
+### 📌 Comandos Frontend
 
 1. **Acessando o Container do Frontend**
 
@@ -130,7 +130,7 @@ pg_restore --clean -U postgres -h db -p 5432 -d postgres -v dump_bd.dump
 4. **Iniciando o Servidor**
 
    ```sh
-   npm run dev -- --host
+   npm run dev
    ```
 
    **Acesso:** [localhost:5174](http://localhost:5174)
